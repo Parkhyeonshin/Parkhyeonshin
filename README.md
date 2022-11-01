@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkhyeonshin&count_bg=%23FBFBFB&title_bg=%2371C5F9&icon=opsgenie.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sshi4n882)](https://solved.ac/sshi4n882)   
+[![Solved.ac sshi4n882](http://mazassumnida.wtf/api/v2/generate_badge?boj={sshi4n882})](https://solved.ac/{sshi4n882})
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sshi4n882)](https://solved.ac/sshi4n882/)   
    
