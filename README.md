@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=Hi%20THERE👋&fontSize=75&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=HELLO👋&fontSize=75&animation=twinkling)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkhyeonshin&count_bg=%23FBFBFB&title_bg=%2371C5F9&icon=opsgenie.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
