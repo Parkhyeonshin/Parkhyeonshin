@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 ![Parkhyeonshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkhyeonshin&show_icons=true&theme=Gradient)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkhyeonshin&layout=compact)](https://github.com/Parkhyeonshin/github-readme-stats)
 # 📚Studying
 ### Platforms & Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
