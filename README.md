@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=Hi%20THERE👋&fontSize=75&animation=twinkling)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-soohyeon&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkhyeonshin&count_bg=%23230F00&title_bg=%23FFAD41&icon=opsgenie.svg&icon_color=%23230000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
 # 💪Skills
