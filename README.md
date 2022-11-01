@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 ![Soohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-soohyeon&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sshi4n882)](https://solved.ac/sshi4n882/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sshi4n882)](https://solved.ac/sshi4n882/) 
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
