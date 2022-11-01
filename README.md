@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkhyeonshin&count_bg=%23FBFBFB&title_bg=%2371C5F9&icon=opsgenie.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sshi4n882)](https://solved.ac/sshi4n882)
 
-
-![Parkhyeonshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkhyeonshin&show_icons=true&theme=Gradient)
+![Parkhyeonshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parkhyeonshin&show_icons=true&theme=Gradient)   
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sshi4n882)](https://solved.ac/sshi4n882/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parkhyeonshin&layout=compact)](https://github.com/Parkhyeonshin/github-readme-stats)
+
 # 📚Studying
 ### Platforms & Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
