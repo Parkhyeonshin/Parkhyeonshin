@@ -40,4 +40,13 @@ Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=sshi4n882)](https:/
 # :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sshin4882.tistory.com/)](https://sshin4882.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sshin4882@gmail.com)](mailto:sshin4882@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sshin4882@naver.com)](mailto:sshin4882@naver.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-suare&logo=Naver&logoColor=white&link=mailto:sshin4882@naver.com)](mailto:sshin4882@naver.com)
+
+
+## 리액트/뷰 수업 예제
+
+리액트 사이트1(https://sshin-react01.netlify.app)  
+뷰 사이트1(https://vueclass10.web.app/)
+
+리액트 API 사이트(https://sshin-react02.netlify.app)  
+뷰 API 사이트(https://vueapi50-694c0.web.app/)
